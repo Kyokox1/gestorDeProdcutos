@@ -1,0 +1,11 @@
+C:\Users\VICTUS\source\repos\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe.config
+C:\Users\VICTUS\source\repos\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe
+C:\Users\VICTUS\source\repos\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.pdb
+C:\Users\VICTUS\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.AssemblyReference.cache
+C:\Users\VICTUS\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Form1.resources
+C:\Users\VICTUS\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Form2.resources
+C:\Users\VICTUS\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Properties.Resources.resources
+C:\Users\VICTUS\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.GenerateResource.cache
+C:\Users\VICTUS\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe
+C:\Users\VICTUS\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.pdb
